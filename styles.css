@@ -4,26 +4,26 @@
  }
  img.avatar {
    border-radius: 50%;
-   }
-   .margin {
+}
+#tg {
       text-align: center;
    }
-    .margin1 {
+#vk {
       text-align: center;
        margin-left: 2%;
     }
-    .margin2 {
+#hh {
       text-align: center;
        margin-left: 2%;
     }
-    .margin3 {
+#git {
       text-align: center;
        margin-left: 2%;
     }
-    .text{
+.text{
       font-size: 160%;
     }
-    .button {
+.button {
       margin-top: 10px;
       box-sizing: border-box;
   
@@ -41,13 +41,13 @@
       color: #000000;
       text-decoration: none;
     }
-    .button:hover {
+.button:hover {
       color: #fff;
       background: #333;
       tansition: all .3s linear;
       -webkit-transition: all .3s linear;
       -moz-transition: all .3s linear; 
    }
-    .br1{
+.br1{
       text-align: center;
     }
